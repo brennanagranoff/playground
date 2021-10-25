@@ -1,0 +1,62 @@
+[
+  {
+    "placements": [
+      { "X": 50, "Y": 50, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
+      { "X": 50, "Y": 19400, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
+    ]
+  },
+  {
+    "placements": [
+      { "X": 4200, "Y": 50, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
+      { "X": 4200, "Y": 19400, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
+    ]
+  },
+  {
+    "placements": [
+      { "X": 50, "Y": 2200, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
+      { "X": 50, "Y": 17250, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
+    ]
+  },
+  {
+    "placements": [
+      { "X": 4200, "Y": 2200, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
+      { "X": 4200, "Y": 17250, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
+    ]
+  },
+  {
+    "placements": [
+      { "X": 50, "Y": 4350, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
+      { "X": 50, "Y": 15100, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
+    ]
+  },
+  {
+    "placements": [
+      { "X": 4200, "Y": 4350, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
+      { "X": 4200, "Y": 15100, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
+    ]
+  },
+  {
+    "placements": [
+      { "X": 50, "Y": 6500, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
+      { "X": 50, "Y": 12950, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
+    ]
+  },
+  {
+    "placements": [
+      { "X": 4200, "Y": 6500, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
+      { "X": 4200, "Y": 12950, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
+    ]
+  },
+  {
+    "placements": [
+      { "X": 50, "Y": 8650, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
+      { "X": 50, "Y": 10800, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
+    ]
+  },
+  {
+    "placements": [
+      { "X": 4200, "Y": 8650, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
+      { "X": 4200, "Y": 10800, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
+    ]
+  }
+]
