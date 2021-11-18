@@ -1,0 +1,4 @@
+[
+  { "id": 7, "first_name": "brennan", "last_name": "agranoff", "crop_rate": 0.25, "referral_user_id": 10, "referral_bounty": 0.1 },
+  { "id": 10, "first_name": "suzanne", "last_name": "Ctvrtlik", "crop_rate": 0.25, "referral_user_id": null, "referral_bounty": null }
+]

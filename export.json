@@ -1,62 +1,115 @@
 [
-  {
-    "placements": [
-      { "X": 50, "Y": 50, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
-      { "X": 50, "Y": 19400, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
-    ]
-  },
-  {
-    "placements": [
-      { "X": 4200, "Y": 50, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
-      { "X": 4200, "Y": 19400, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
-    ]
-  },
-  {
-    "placements": [
-      { "X": 50, "Y": 2200, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
-      { "X": 50, "Y": 17250, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
-    ]
-  },
-  {
-    "placements": [
-      { "X": 4200, "Y": 2200, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
-      { "X": 4200, "Y": 17250, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
-    ]
-  },
-  {
-    "placements": [
-      { "X": 50, "Y": 4350, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
-      { "X": 50, "Y": 15100, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
-    ]
-  },
-  {
-    "placements": [
-      { "X": 4200, "Y": 4350, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
-      { "X": 4200, "Y": 15100, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
-    ]
-  },
-  {
-    "placements": [
-      { "X": 50, "Y": 6500, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
-      { "X": 50, "Y": 12950, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
-    ]
-  },
-  {
-    "placements": [
-      { "X": 4200, "Y": 6500, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
-      { "X": 4200, "Y": 12950, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
-    ]
-  },
-  {
-    "placements": [
-      { "X": 50, "Y": 8650, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
-      { "X": 50, "Y": 10800, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
-    ]
-  },
-  {
-    "placements": [
-      { "X": 4200, "Y": 8650, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 },
-      { "X": 4200, "Y": 10800, "Rotate": 270, "AnchorX": 0, "AnchorY": 0 }
-    ]
-  }
-]
+    {
+        "serviceName": "USPS First Class Mail - Large Envelope or Flat",
+        "serviceCode": "usps_first_class_mail",
+        "shipmentCost": 2.76,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS First Class Mail - Package",
+        "serviceCode": "usps_first_class_mail",
+        "shipmentCost": 4.83,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail - Package",
+        "serviceCode": "usps_priority_mail",
+        "shipmentCost": 9.27,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail - Medium Flat Rate Box",
+        "serviceCode": "usps_priority_mail",
+        "shipmentCost": 14.5,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail - Large Flat Rate Box",
+        "serviceCode": "usps_priority_mail",
+        "shipmentCost": 20.05,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail - Flat Rate Envelope",
+        "serviceCode": "usps_priority_mail",
+        "shipmentCost": 8.15,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail - Flat Rate Padded Envelope",
+        "serviceCode": "usps_priority_mail",
+        "shipmentCost": 8.75,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail - Regional Rate Box A",
+        "serviceCode": "usps_priority_mail",
+        "shipmentCost": 12.38,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail - Regional Rate Box B",
+        "serviceCode": "usps_priority_mail",
+        "shipmentCost": 20.85,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail - Legal Flat Rate Envelope",
+        "serviceCode": "usps_priority_mail",
+        "shipmentCost": 8.45,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail Express - Package",
+        "serviceCode": "usps_priority_mail_express",
+        "shipmentCost": 38,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail Express - Flat Rate Envelope",
+        "serviceCode": "usps_priority_mail_express",
+        "shipmentCost": 23.5,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail Express - Flat Rate Padded Envelope",
+        "serviceCode": "usps_priority_mail_express",
+        "shipmentCost": 24,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "USPS Priority Mail Express - Legal Flat Rate Envelope",
+        "serviceCode": "usps_priority_mail_express",
+        "shipmentCost": 23.7,
+        "otherCost": 0
+    },
+    {
+        "serviceName": "UPS Next Day Air Saver®",
+        "serviceCode": "ups_next_day_air_saver",
+        "shipmentCost": 34,
+        "otherCost": 2
+    },
+    {
+        "serviceName": "UPS Next Day Air®",
+        "serviceCode": "ups_next_day_air",
+        "shipmentCost": 40,
+        "otherCost": 2
+    },
+    {
+        "serviceName": "UPS 3 Day Select®",
+        "serviceCode": "ups_3_day_select",
+        "shipmentCost": 11.35,
+        "otherCost": 2
+    },
+    {
+        "serviceName": "UPS® Ground",
+        "serviceCode": "ups_ground",
+        "shipmentCost": 8.62,
+        "otherCost": 2
+    },
+    {
+        "serviceName": "UPS 2nd Day Air®",
+        "serviceCode": "ups_2nd_day_air",
+        "shipmentCost": 15.39,
+        "otherCost": 2
+    }

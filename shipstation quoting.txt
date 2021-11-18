@@ -1,0 +1,21 @@
+cron runs every x min
+
+pull sql query for shipping calculated IS FALSE up to 100 orders
+
+List Carriers
+List Packages
+
+For each order
+    Set Weight
+    Set Box Dimensions (from available box sizes)
+
+    Update order in DB
+    
+    For each carrier
+        List Rates
+    
+    Determine Rate To use based on requested shipping method & price
+
+    Add to updates array
+
+Push bulk update to shipstation

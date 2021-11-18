@@ -1,8 +1,7 @@
 const fs = require("fs");
 
-var x = [50, 2200, 4350, 6500];
-var y = [50, 3755, 7460, 11165, 14870];
-
+var x = [50, 1100, 2150, 3200, 4250, 5300, 6350, 7400];
+var y = [50, 640, 1230];
 var exportArray = [];
 
 var modifyObject = { placements: [{ Rotate: 0, AnchorX: 0, AnchorY: 0, X: 0, Y: 0 }] };
