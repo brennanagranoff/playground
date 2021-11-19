@@ -1,4 +1,57 @@
 [
-  { "id": 7, "first_name": "brennan", "last_name": "agranoff", "crop_rate": 0.25, "referral_user_id": 10, "referral_bounty": 0.1 },
-  { "id": 10, "first_name": "suzanne", "last_name": "Ctvrtlik", "crop_rate": 0.25, "referral_user_id": null, "referral_bounty": null }
+  {
+    "id": 7,
+    "first_name": "brennan",
+    "last_name": "agranoff",
+    "crop_rate": 0.25,
+    "referral_user_id": 10,
+    "referral_bounty": 0.1,
+    "hourly": false,
+    "payment_method": "upwork",
+    "payment_info": "brennan@hoopswagg.com"
+  },
+  {
+    "id": 10,
+    "first_name": "suzanne",
+    "last_name": "Ctvrtlik",
+    "crop_rate": 0.25,
+    "referral_user_id": null,
+    "referral_bounty": null,
+    "hourly": false,
+    "payment_method": "upwork",
+    "payment_info": "brennan@hoopswagg.com"
+  },
+  {
+    "id": 19,
+    "first_name": "Brent",
+    "last_name": "brentpacheco",
+    "crop_rate": 0,
+    "referral_user_id": null,
+    "referral_bounty": null,
+    "hourly": true,
+    "payment_method": null,
+    "payment_info": null
+  },
+  {
+    "id": 20,
+    "first_name": "Vivek",
+    "last_name": "Rohaj",
+    "crop_rate": 0.4,
+    "referral_user_id": null,
+    "referral_bounty": null,
+    "hourly": false,
+    "payment_method": "upwork",
+    "payment_info": "https://www.upwork.com/ab/c/2469209/contracts/25271671#milestones%2F20211021%2F20211119"
+  },
+  {
+    "id": 34,
+    "first_name": "grigor",
+    "last_name": "Vardanyan",
+    "crop_rate": 0.3,
+    "referral_user_id": null,
+    "referral_bounty": null,
+    "hourly": false,
+    "payment_method": "upwork",
+    "payment_info": "https://www.upwork.com/ab/c/2469209/contracts/25396368#milestones%2F20211021%2F20211119"
+  }
 ]

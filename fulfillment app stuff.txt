@@ -1,0 +1,3 @@
+install app
+configure product w/skus
+confirm automatic fulfillment request is on
