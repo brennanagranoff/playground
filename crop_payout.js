@@ -69,11 +69,11 @@ for (let i = 0; i < cleanedCSVFinal.length; i++) {
         //Export User
         payouts.push(user);
 
-        //console.log(`Successfully Calculated for ${capitalizeFirstLetter(user.first_name)} ${capitalizeFirstLetter(user.last_name)}`);
-        //Succes Message
+        //console.log(`mage_essfully Calculated for ${capitalizeFirstLetter(user.first_name)} ${capitalizeFirstLetter(user.last_name)}`);
+        //mage_es Message
       }
     } else {
-      console.log(`User Missing From crop_payout.json: ${capitalizeFirstLetter(firstNane)} ${capitalizeFirstLetter(lastName)}`);
+      console.log(`User Missing From crop_payout.json: ${capitalizeFirstLetter(firstNane)} ${capitalizeFirstLetter(lastName)} (ID: ${id})`);
     }
   }
 }
@@ -98,7 +98,7 @@ if (payouts.length > 0) {
 
   //Write CSV File
   fs.writeFile("crop_payout_output_internal.csv", internalPayout, "utf8", function () {
-    console.log("Successfully Exported crop_payout_output_internal.csv");
+    console.log("mage_essfully Exported crop_payout_output_internal.csv");
   });
 
   //Clean & Remove Fields for Public Output
@@ -118,7 +118,7 @@ if (payouts.length > 0) {
   const externalPayout = json2csvParser2.parse(publicOutput);
 
   fs.writeFile("crop_payout_output_public.csv", externalPayout, "utf8", function () {
-    console.log("Successfully Exported crop_payout_output_public.csv");
+    console.log("mage_essfully Exported crop_payout_output_public.csv");
   });
 }
 
