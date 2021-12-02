@@ -1,0 +1,25 @@
+.nav-button-promo {
+  background-color: red;
+  color: #fff;
+  padding: 5px;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+.sale-text {
+  font-weight: bold;
+  color: #fff;
+}
+
+@media only screen and (max-width: 600px) {
+  .sale-text {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+
+  .nav-button-promo {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+}

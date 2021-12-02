@@ -1,0 +1,844 @@
+{
+  "category": [
+    {
+      "name": "Collage",
+      "pallet": [
+        {
+          "name": "face collage",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/face_collage-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/face_collage-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/face_collage-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/face_collage-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/face_collage-other-pot_holder.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Holiday",
+      "pallet": [
+        {
+          "name": "berries",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/berries-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/berries-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/berries-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/berries-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/berries-other-pot_holder.jpg"
+        },
+        {
+          "name": "candy cane stripes",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/candy_cane_stripes-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/candy_cane_stripes-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/candy_cane_stripes-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/candy_cane_stripes-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/candy_cane_stripes-other-pot_holder.jpg"
+        },
+        {
+          "name": "hanukkah mashup",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/hanukkah_mashup-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/hanukkah_mashup-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/hanukkah_mashup-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/hanukkah_mashup-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/hanukkah_mashup-other-pot_holder.jpg"
+        },
+        {
+          "name": "blue snowflake",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue_snowflake-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_snowflake-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_snowflake-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_snowflake-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_snowflake-other-pot_holder.jpg"
+        },
+        {
+          "name": "red snowflake",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red_snowflake-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_snowflake-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_snowflake-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_snowflake-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_snowflake-other-pot_holder.jpg"
+        },
+        {
+          "name": "snowflake knit",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/snowflake_knit-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/snowflake_knit-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/snowflake_knit-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/snowflake_knit-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/snowflake_knit-other-pot_holder.jpg"
+        },
+        {
+          "name": "ugly sweater",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/ugly_sweater-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ugly_sweater-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ugly_sweater-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ugly_sweater-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ugly_sweater-other-pot_holder.jpg"
+        },
+        {
+          "name": "white snowflake",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/white_snowflake-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/white_snowflake-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/white_snowflake-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/white_snowflake-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/white_snowflake-other-pot_holder.jpg"
+        },
+        {
+          "name": "winter wonderland",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/winter_wonderland-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/winter_wonderland-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/winter_wonderland-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/winter_wonderland-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/winter_wonderland-other-pot_holder.jpg"
+        },
+        {
+          "name": "holiday icon",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/holiday_icon-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/holiday_icon-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/holiday_icon-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/holiday_icon-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/holiday_icon-other-pot_holder.jpg"
+        },
+        {
+          "name": "xmas trees",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/xmas_trees-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/xmas_trees-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/xmas_trees-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/xmas_trees-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/xmas_trees-other-pot_holder.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "colors",
+      "pallet": [
+        {
+          "name": "pink",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pink-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink-other-pot_holder.jpg"
+        },
+        {
+          "name": "red",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red-other-pot_holder.jpg"
+        },
+        {
+          "name": "orange",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/orange-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange-other-pot_holder.jpg"
+        },
+        {
+          "name": "yellow",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/yellow-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow-other-pot_holder.jpg"
+        },
+        {
+          "name": "green",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green-other-pot_holder.jpg"
+        },
+        {
+          "name": "turquoise",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/turquoise-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise-other-pot_holder.jpg"
+        },
+        {
+          "name": "blue",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue-other-pot_holder.jpg"
+        },
+        {
+          "name": "purple",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/purple-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple-other-pot_holder.jpg"
+        },
+        {
+          "name": "black",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/black-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black-other-pot_holder.jpg"
+        },
+        {
+          "name": "grey",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grey-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey-other-pot_holder.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dog",
+      "pallet": [
+        {
+          "name": "black dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/black_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black_dog-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black_dog-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black_dog-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black_dog-other-pot_holder.jpg"
+        },
+        {
+          "name": "blue dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_dog-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_dog-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_dog-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_dog-other-pot_holder.jpg"
+        },
+        {
+          "name": "green dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_dog-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_dog-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_dog-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_dog-other-pot_holder.jpg"
+        },
+        {
+          "name": "grey dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grey_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey_dog-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey_dog-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey_dog-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey_dog-other-pot_holder.jpg"
+        },
+        {
+          "name": "orange dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/orange_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange_dog-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange_dog-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange_dog-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange_dog-other-pot_holder.jpg"
+        },
+        {
+          "name": "pink dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pink_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink_dog-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink_dog-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink_dog-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink_dog-other-pot_holder.jpg"
+        },
+        {
+          "name": "purple dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/purple_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple_dog-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple_dog-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple_dog-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple_dog-other-pot_holder.jpg"
+        },
+        {
+          "name": "red dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_dog-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_dog-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_dog-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_dog-other-pot_holder.jpg"
+        },
+        {
+          "name": "turquoise dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/turquoise_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise_dog-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise_dog-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise_dog-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise_dog-other-pot_holder.jpg"
+        },
+        {
+          "name": "yellow dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/yellow_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow_dog-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow_dog-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow_dog-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow_dog-other-pot_holder.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "pallet": [
+        {
+          "name": "black cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/black_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black_cat-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black_cat-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black_cat-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/black_cat-other-pot_holder.jpg"
+        },
+        {
+          "name": "blue cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_cat-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_cat-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_cat-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/blue_cat-other-pot_holder.jpg"
+        },
+        {
+          "name": "green cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_cat-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_cat-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_cat-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_cat-other-pot_holder.jpg"
+        },
+        {
+          "name": "grey cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grey_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey_cat-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey_cat-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey_cat-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grey_cat-other-pot_holder.jpg"
+        },
+        {
+          "name": "orange cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/orange_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange_cat-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange_cat-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange_cat-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/orange_cat-other-pot_holder.jpg"
+        },
+        {
+          "name": "pink cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pink_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink_cat-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink_cat-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink_cat-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pink_cat-other-pot_holder.jpg"
+        },
+        {
+          "name": "purple cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/purple_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple_cat-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple_cat-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple_cat-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/purple_cat-other-pot_holder.jpg"
+        },
+        {
+          "name": "red cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_cat-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_cat-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_cat-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/red_cat-other-pot_holder.jpg"
+        },
+        {
+          "name": "turquoise cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/turquoise_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise_cat-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise_cat-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise_cat-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/turquoise_cat-other-pot_holder.jpg"
+        },
+        {
+          "name": "yellow cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/yellow_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow_cat-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow_cat-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow_cat-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/yellow_cat-other-pot_holder.jpg"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "pallet": [
+        {
+          "name": "taco time",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/taco_time-thumbnail.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/taco_time-dog-pot_holder.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/taco_time-cat-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/taco_time-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/taco_time-other-pot_holder.jpg"
+        },
+        {
+          "name": "ramen",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/ramen-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ramen-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ramen-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ramen-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ramen-other-pot_holder.jpg"
+        },
+        {
+          "name": "guacamole",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/guacamole-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/guacamole-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/guacamole-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/guacamole-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/guacamole-other-pot_holder.jpg"
+        },
+        {
+          "name": "cheddar",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cheddar-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheddar-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheddar-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheddar-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheddar-other-pot_holder.jpg"
+        },
+        {
+          "name": "tortilla",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tortilla-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tortilla-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tortilla-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tortilla-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tortilla-other-pot_holder.jpg"
+        },
+        {
+          "name": "peaches",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/peaches-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/peaches-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/peaches-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/peaches-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/peaches-other-pot_holder.jpg"
+        },
+        {
+          "name": "avocado farm",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/avocado_farm-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/avocado_farm-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/avocado_farm-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/avocado_farm-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/avocado_farm-other-pot_holder.jpg"
+        },
+        {
+          "name": "chocolate chip",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/chocolate_chip-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/chocolate_chip-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/chocolate_chip-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/chocolate_chip-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/chocolate_chip-other-pot_holder.jpg"
+        },
+        {
+          "name": "candy v2",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/candy_v2-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/candy_v2-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/candy_v2-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/candy_v2-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/candy_v2-other-pot_holder.jpg"
+        },
+        {
+          "name": "cheese puffs",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cheese_puffs-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheese_puffs-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheese_puffs-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheese_puffs-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheese_puffs-other-pot_holder.jpg"
+        },
+        {
+          "name": "cheeseburger",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cheeseburger-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheeseburger-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheeseburger-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheeseburger-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cheeseburger-other-pot_holder.jpg"
+        },
+        {
+          "name": "cupcakes",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cupcakes-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cupcakes-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cupcakes-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cupcakes-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cupcakes-other-pot_holder.jpg"
+        },
+        {
+          "name": "donuts",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/donuts-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/donuts-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/donuts-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/donuts-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/donuts-other-pot_holder.jpg"
+        },
+        {
+          "name": "fruity feast",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/fruity_feast-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/fruity_feast-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/fruity_feast-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/fruity_feast-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/fruity_feast-other-pot_holder.jpg"
+        },
+        {
+          "name": "hot dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/hot_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/hot_dog-cat-pot_holder.jpg?v=1620716084",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/hot_dog-dog-pot_holder.jpg?v=1620716084",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/hot_dog-human-pot_holder.jpg?v=1620716084",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/hot_dog-other-pot_holder.jpg?v=1620716084"
+        },
+        {
+          "name": "ice cream",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/ice_cream-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ice_cream-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ice_cream-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ice_cream-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/ice_cream-other-pot_holder.jpg"
+        },
+        {
+          "name": "lemons",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/lemons-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lemons-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lemons-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lemons-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lemons-other-pot_holder.jpg"
+        },
+        {
+          "name": "mac and cheese",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/mac_and_cheese-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/mac_and_cheese-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/mac_and_cheese-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/mac_and_cheese-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/mac_and_cheese-other-pot_holder.jpg"
+        },
+        {
+          "name": "peppermints",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/peppermints-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/peppermints-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/peppermints-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/peppermints-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/peppermints-other-pot_holder.jpg"
+        },
+        {
+          "name": "pizza",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pizza-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pizza-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pizza-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pizza-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pizza-other-pot_holder.jpg"
+        },
+        {
+          "name": "sprinkles",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sprinkles-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sprinkles-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sprinkles-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sprinkles-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sprinkles-other-pot_holder.jpg"
+        },
+        {
+          "name": "waffles",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/waffles-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/waffles-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/waffles-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/waffles-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/waffles-other-pot_holder.jpg"
+        },
+        {
+          "name": "watermelon",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/watermelon-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/watermelon-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/watermelon-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/watermelon-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/watermelon-other-pot_holder.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "biomes",
+      "pallet": [
+        {
+          "name": "clovers",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/clovers-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/clovers-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/clovers-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/clovers-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/clovers-other-pot_holder.jpg"
+        },
+        {
+          "name": "forest",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/forest-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/forest-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/forest-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/forest-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/forest-other-pot_holder.jpg"
+        },
+        {
+          "name": "grass",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grass-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grass-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grass-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grass-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/grass-other-pot_holder.jpg"
+        },
+        {
+          "name": "sand",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sand-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sand-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sand-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sand-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sand-other-pot_holder.jpg"
+        },
+        {
+          "name": "sky",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sky-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sky-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sky-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sky-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sky-other-pot_holder.jpg"
+        },
+        {
+          "name": "snow",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/snow-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/snow-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/snow-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/snow-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/snow-other-pot_holder.jpg"
+        },
+        {
+          "name": "tropical",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tropical-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tropical-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tropical-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tropical-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tropical-other-pot_holder.jpg"
+        },
+        {
+          "name": "water",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/water-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/water-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/water-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/water-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/water-other-pot_holder.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "galaxy",
+      "pallet": [
+        {
+          "name": "cosmos galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cosmos_galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cosmos_galaxy-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cosmos_galaxy-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cosmos_galaxy-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cosmos_galaxy-other-pot_holder.jpg"
+        },
+        {
+          "name": "galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/galaxy-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/galaxy-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/galaxy-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/galaxy-other-pot_holder.jpg"
+        },
+        {
+          "name": "milky way galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/milky_way_galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/milky_way_galaxy-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/milky_way_galaxy-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/milky_way_galaxy-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/milky_way_galaxy-other-pot_holder.jpg"
+        },
+        {
+          "name": "thunder galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/thunder_galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/thunder_galaxy-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/thunder_galaxy-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/thunder_galaxy-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/thunder_galaxy-other-pot_holder.jpg"
+        }
+      ]
+    },
+    {
+      "name": "patterns",
+      "pallet": [
+        {
+          "name": "daises",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/daises-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/daises-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/daises-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/daises-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/daises-other-pot_holder.jpg"
+        },
+        {
+          "name": "green hibiscus",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green_hibiscus-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_hibiscus-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_hibiscus-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_hibiscus-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/green_hibiscus-other-pot_holder.jpg"
+        },
+        {
+          "name": "taxi",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/taxi-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/taxi-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/taxi-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/taxi-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/taxi-other-pot_holder.jpg"
+        },
+        {
+          "name": "bursting hearts",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/bursting_hearts-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/bursting_hearts-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/bursting_hearts-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/bursting_hearts-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/bursting_hearts-other-pot_holder.jpg"
+        },
+        {
+          "name": "breast cancer argyle",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/breast_cancer_argyle-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/breast_cancer_argyle-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/breast_cancer_argyle-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/breast_cancer_argyle-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/breast_cancer_argyle-other-pot_holder.jpg"
+        },
+        {
+          "name": "camo",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/camo-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/camo-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/camo-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/camo-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/camo-other-pot_holder.jpg"
+        },
+        {
+          "name": "cash",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cash-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cash-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cash-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cash-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cash-other-pot_holder.jpg"
+        },
+        {
+          "name": "cross",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cross-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cross-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cross-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cross-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/cross-other-pot_holder.jpg"
+        },
+        {
+          "name": "droids",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/droids-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/droids-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/droids-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/droids-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/droids-other-pot_holder.jpg"
+        },
+        {
+          "name": "gearup",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/gearup-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/gearup-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/gearup-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/gearup-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/gearup-other-pot_holder.jpg"
+        },
+        {
+          "name": "graffiti",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/graffiti-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/graffiti-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/graffiti-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/graffiti-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/graffiti-other-pot_holder.jpg"
+        },
+        {
+          "name": "lava",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/lava-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lava-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lava-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lava-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lava-other-pot_holder.jpg"
+        },
+        {
+          "name": "lightsaber",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/lightsaber-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lightsaber-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lightsaber-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lightsaber-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/lightsaber-other-pot_holder.jpg"
+        },
+        {
+          "name": "nerf",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/nerf-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/nerf-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/nerf-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/nerf-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/nerf-other-pot_holder.jpg"
+        },
+        {
+          "name": "paint splatter",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/paint_splatter-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/paint_splatter-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/paint_splatter-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/paint_splatter-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/paint_splatter-other-pot_holder.jpg"
+        },
+        {
+          "name": "pride",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pride-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pride-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pride-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pride-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/pride-other-pot_holder.jpg"
+        },
+        {
+          "name": "psycho rainbow",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/psycho_rainbow-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/psycho_rainbow-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/psycho_rainbow-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/psycho_rainbow-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/psycho_rainbow-other-pot_holder.jpg"
+        },
+        {
+          "name": "sea swirl",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sea_swirl-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sea_swirl-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sea_swirl-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sea_swirl-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/sea_swirl-other-pot_holder.jpg"
+        },
+        {
+          "name": "tie dye",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tie_dye-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tie_dye-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tie_dye-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tie_dye-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tie_dye-other-pot_holder.jpg"
+        },
+        {
+          "name": "tribal",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tribal-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tribal-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tribal-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tribal-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/tribal-other-pot_holder.jpg"
+        },
+        {
+          "name": "vision",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/vision-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/vision-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/vision-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/vision-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/vision-other-pot_holder.jpg"
+        },
+        {
+          "name": "wookie",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/wookie-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/wookie-cat-pot_holder.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/wookie-dog-pot_holder.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/wookie-human-pot_holder.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/pot-holder/wookie-other-pot_holder.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,844 @@
+{
+  "category": [
+    {
+      "name": "Collage",
+      "pallet": [
+        {
+          "name": "face collage",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/face_collage-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/face_collage-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/face_collage-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/face_collage-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/face_collage-other-mitt.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Holiday",
+      "pallet": [
+        {
+          "name": "berries",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/berries-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/berries-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/berries-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/berries-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/berries-other-mitt.jpg"
+        },
+        {
+          "name": "candy cane stripes",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/candy_cane_stripes-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/candy_cane_stripes-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/candy_cane_stripes-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/candy_cane_stripes-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/candy_cane_stripes-other-mitt.jpg"
+        },
+        {
+          "name": "hanukkah mashup",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/hanukkah_mashup-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/hanukkah_mashup-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/hanukkah_mashup-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/hanukkah_mashup-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/hanukkah_mashup-other-mitt.jpg"
+        },
+        {
+          "name": "blue snowflake",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue_snowflake-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_snowflake-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_snowflake-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_snowflake-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_snowflake-other-mitt.jpg"
+        },
+        {
+          "name": "red snowflake",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red_snowflake-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_snowflake-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_snowflake-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_snowflake-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_snowflake-other-mitt.jpg"
+        },
+        {
+          "name": "snowflake knit",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/snowflake_knit-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/snowflake_knit-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/snowflake_knit-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/snowflake_knit-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/snowflake_knit-other-mitt.jpg"
+        },
+        {
+          "name": "ugly sweater",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/ugly_sweater-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ugly_sweater-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ugly_sweater-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ugly_sweater-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ugly_sweater-other-mitt.jpg"
+        },
+        {
+          "name": "white snowflake",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/white_snowflake-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/white_snowflake-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/white_snowflake-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/white_snowflake-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/white_snowflake-other-mitt.jpg"
+        },
+        {
+          "name": "winter wonderland",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/winter_wonderland-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/winter_wonderland-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/winter_wonderland-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/winter_wonderland-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/winter_wonderland-other-mitt.jpg"
+        },
+        {
+          "name": "holiday icon",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/holiday_icon-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/holiday_icon-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/holiday_icon-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/holiday_icon-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/holiday_icon-other-mitt.jpg"
+        },
+        {
+          "name": "xmas trees",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/xmas_trees-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/xmas_trees-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/xmas_trees-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/xmas_trees-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/xmas_trees-other-mitt.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "colors",
+      "pallet": [
+        {
+          "name": "pink",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pink-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink-other-mitt.jpg"
+        },
+        {
+          "name": "red",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red-other-mitt.jpg"
+        },
+        {
+          "name": "orange",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/orange-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange-other-mitt.jpg"
+        },
+        {
+          "name": "yellow",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/yellow-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow-other-mitt.jpg"
+        },
+        {
+          "name": "green",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green-other-mitt.jpg"
+        },
+        {
+          "name": "turquoise",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/turquoise-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise-other-mitt.jpg"
+        },
+        {
+          "name": "blue",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue-other-mitt.jpg"
+        },
+        {
+          "name": "purple",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/purple-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple-other-mitt.jpg"
+        },
+        {
+          "name": "black",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/black-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black-other-mitt.jpg"
+        },
+        {
+          "name": "grey",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grey-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey-other-mitt.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dog",
+      "pallet": [
+        {
+          "name": "black dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/black_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black_dog-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black_dog-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black_dog-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black_dog-other-mitt.jpg"
+        },
+        {
+          "name": "blue dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_dog-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_dog-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_dog-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_dog-other-mitt.jpg"
+        },
+        {
+          "name": "green dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_dog-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_dog-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_dog-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_dog-other-mitt.jpg"
+        },
+        {
+          "name": "grey dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grey_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey_dog-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey_dog-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey_dog-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey_dog-other-mitt.jpg"
+        },
+        {
+          "name": "orange dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/orange_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange_dog-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange_dog-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange_dog-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange_dog-other-mitt.jpg"
+        },
+        {
+          "name": "pink dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pink_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink_dog-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink_dog-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink_dog-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink_dog-other-mitt.jpg"
+        },
+        {
+          "name": "purple dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/purple_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple_dog-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple_dog-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple_dog-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple_dog-other-mitt.jpg"
+        },
+        {
+          "name": "red dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_dog-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_dog-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_dog-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_dog-other-mitt.jpg"
+        },
+        {
+          "name": "turquoise dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/turquoise_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise_dog-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise_dog-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise_dog-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise_dog-other-mitt.jpg"
+        },
+        {
+          "name": "yellow dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/yellow_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow_dog-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow_dog-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow_dog-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow_dog-other-mitt.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "pallet": [
+        {
+          "name": "black cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/black_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black_cat-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black_cat-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black_cat-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/black_cat-other-mitt.jpg"
+        },
+        {
+          "name": "blue cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_cat-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_cat-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_cat-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/blue_cat-other-mitt.jpg"
+        },
+        {
+          "name": "green cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_cat-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_cat-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_cat-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_cat-other-mitt.jpg"
+        },
+        {
+          "name": "grey cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grey_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey_cat-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey_cat-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey_cat-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grey_cat-other-mitt.jpg"
+        },
+        {
+          "name": "orange cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/orange_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange_cat-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange_cat-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange_cat-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/orange_cat-other-mitt.jpg"
+        },
+        {
+          "name": "pink cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pink_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink_cat-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink_cat-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink_cat-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pink_cat-other-mitt.jpg"
+        },
+        {
+          "name": "purple cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/purple_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple_cat-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple_cat-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple_cat-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/purple_cat-other-mitt.jpg"
+        },
+        {
+          "name": "red cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_cat-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_cat-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_cat-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/red_cat-other-mitt.jpg"
+        },
+        {
+          "name": "turquoise cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/turquoise_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise_cat-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise_cat-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise_cat-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/turquoise_cat-other-mitt.jpg"
+        },
+        {
+          "name": "yellow cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/yellow_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow_cat-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow_cat-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow_cat-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/yellow_cat-other-mitt.jpg"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "pallet": [
+        {
+          "name": "taco time",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/taco_time-thumbnail.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/taco_time-dog-mitt.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/taco_time-cat-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/taco_time-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/taco_time-other-mitt.jpg"
+        },
+        {
+          "name": "ramen",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/ramen-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ramen-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ramen-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ramen-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ramen-other-mitt.jpg"
+        },
+        {
+          "name": "guacamole",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/guacamole-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/guacamole-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/guacamole-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/guacamole-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/guacamole-other-mitt.jpg"
+        },
+        {
+          "name": "cheddar",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cheddar-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheddar-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheddar-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheddar-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheddar-other-mitt.jpg"
+        },
+        {
+          "name": "tortilla",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tortilla-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tortilla-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tortilla-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tortilla-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tortilla-other-mitt.jpg"
+        },
+        {
+          "name": "peaches",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/peaches-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/peaches-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/peaches-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/peaches-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/peaches-other-mitt.jpg"
+        },
+        {
+          "name": "avocado farm",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/avocado_farm-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/avocado_farm-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/avocado_farm-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/avocado_farm-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/avocado_farm-other-mitt.jpg"
+        },
+        {
+          "name": "chocolate chip",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/chocolate_chip-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/chocolate_chip-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/chocolate_chip-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/chocolate_chip-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/chocolate_chip-other-mitt.jpg"
+        },
+        {
+          "name": "candy v2",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/candy_v2-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/candy_v2-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/candy_v2-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/candy_v2-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/candy_v2-other-mitt.jpg"
+        },
+        {
+          "name": "cheese puffs",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cheese_puffs-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheese_puffs-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheese_puffs-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheese_puffs-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheese_puffs-other-mitt.jpg"
+        },
+        {
+          "name": "cheeseburger",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cheeseburger-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheeseburger-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheeseburger-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheeseburger-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cheeseburger-other-mitt.jpg"
+        },
+        {
+          "name": "cupcakes",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cupcakes-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cupcakes-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cupcakes-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cupcakes-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cupcakes-other-mitt.jpg"
+        },
+        {
+          "name": "donuts",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/donuts-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/donuts-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/donuts-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/donuts-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/donuts-other-mitt.jpg"
+        },
+        {
+          "name": "fruity feast",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/fruity_feast-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/fruity_feast-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/fruity_feast-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/fruity_feast-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/fruity_feast-other-mitt.jpg"
+        },
+        {
+          "name": "hot dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/hot_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/hot_dog-cat-mitt.jpg?v=1620716084",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/hot_dog-dog-mitt.jpg?v=1620716084",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/hot_dog-human-mitt.jpg?v=1620716084",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/hot_dog-other-mitt.jpg?v=1620716084"
+        },
+        {
+          "name": "ice cream",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/ice_cream-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ice_cream-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ice_cream-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ice_cream-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/ice_cream-other-mitt.jpg"
+        },
+        {
+          "name": "lemons",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/lemons-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lemons-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lemons-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lemons-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lemons-other-mitt.jpg"
+        },
+        {
+          "name": "mac and cheese",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/mac_and_cheese-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/mac_and_cheese-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/mac_and_cheese-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/mac_and_cheese-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/mac_and_cheese-other-mitt.jpg"
+        },
+        {
+          "name": "peppermints",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/peppermints-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/peppermints-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/peppermints-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/peppermints-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/peppermints-other-mitt.jpg"
+        },
+        {
+          "name": "pizza",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pizza-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pizza-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pizza-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pizza-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pizza-other-mitt.jpg"
+        },
+        {
+          "name": "sprinkles",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sprinkles-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sprinkles-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sprinkles-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sprinkles-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sprinkles-other-mitt.jpg"
+        },
+        {
+          "name": "waffles",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/waffles-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/waffles-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/waffles-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/waffles-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/waffles-other-mitt.jpg"
+        },
+        {
+          "name": "watermelon",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/watermelon-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/watermelon-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/watermelon-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/watermelon-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/watermelon-other-mitt.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "biomes",
+      "pallet": [
+        {
+          "name": "clovers",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/clovers-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/clovers-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/clovers-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/clovers-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/clovers-other-mitt.jpg"
+        },
+        {
+          "name": "forest",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/forest-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/forest-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/forest-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/forest-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/forest-other-mitt.jpg"
+        },
+        {
+          "name": "grass",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grass-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grass-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grass-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grass-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/grass-other-mitt.jpg"
+        },
+        {
+          "name": "sand",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sand-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sand-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sand-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sand-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sand-other-mitt.jpg"
+        },
+        {
+          "name": "sky",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sky-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sky-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sky-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sky-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sky-other-mitt.jpg"
+        },
+        {
+          "name": "snow",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/snow-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/snow-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/snow-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/snow-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/snow-other-mitt.jpg"
+        },
+        {
+          "name": "tropical",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tropical-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tropical-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tropical-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tropical-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tropical-other-mitt.jpg"
+        },
+        {
+          "name": "water",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/water-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/water-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/water-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/water-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/water-other-mitt.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "galaxy",
+      "pallet": [
+        {
+          "name": "cosmos galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cosmos_galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cosmos_galaxy-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cosmos_galaxy-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cosmos_galaxy-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cosmos_galaxy-other-mitt.jpg"
+        },
+        {
+          "name": "galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/galaxy-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/galaxy-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/galaxy-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/galaxy-other-mitt.jpg"
+        },
+        {
+          "name": "milky way galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/milky_way_galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/milky_way_galaxy-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/milky_way_galaxy-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/milky_way_galaxy-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/milky_way_galaxy-other-mitt.jpg"
+        },
+        {
+          "name": "thunder galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/thunder_galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/thunder_galaxy-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/thunder_galaxy-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/thunder_galaxy-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/thunder_galaxy-other-mitt.jpg"
+        }
+      ]
+    },
+    {
+      "name": "patterns",
+      "pallet": [
+        {
+          "name": "daises",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/daises-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/daises-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/daises-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/daises-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/daises-other-mitt.jpg"
+        },
+        {
+          "name": "green hibiscus",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green_hibiscus-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_hibiscus-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_hibiscus-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_hibiscus-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/green_hibiscus-other-mitt.jpg"
+        },
+        {
+          "name": "taxi",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/taxi-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/taxi-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/taxi-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/taxi-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/taxi-other-mitt.jpg"
+        },
+        {
+          "name": "bursting hearts",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/bursting_hearts-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/bursting_hearts-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/bursting_hearts-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/bursting_hearts-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/bursting_hearts-other-mitt.jpg"
+        },
+        {
+          "name": "breast cancer argyle",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/breast_cancer_argyle-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/breast_cancer_argyle-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/breast_cancer_argyle-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/breast_cancer_argyle-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/breast_cancer_argyle-other-mitt.jpg"
+        },
+        {
+          "name": "camo",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/camo-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/camo-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/camo-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/camo-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/camo-other-mitt.jpg"
+        },
+        {
+          "name": "cash",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cash-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cash-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cash-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cash-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cash-other-mitt.jpg"
+        },
+        {
+          "name": "cross",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cross-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cross-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cross-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cross-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/cross-other-mitt.jpg"
+        },
+        {
+          "name": "droids",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/droids-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/droids-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/droids-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/droids-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/droids-other-mitt.jpg"
+        },
+        {
+          "name": "gearup",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/gearup-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/gearup-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/gearup-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/gearup-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/gearup-other-mitt.jpg"
+        },
+        {
+          "name": "graffiti",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/graffiti-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/graffiti-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/graffiti-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/graffiti-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/graffiti-other-mitt.jpg"
+        },
+        {
+          "name": "lava",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/lava-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lava-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lava-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lava-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lava-other-mitt.jpg"
+        },
+        {
+          "name": "lightsaber",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/lightsaber-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lightsaber-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lightsaber-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lightsaber-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/lightsaber-other-mitt.jpg"
+        },
+        {
+          "name": "nerf",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/nerf-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/nerf-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/nerf-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/nerf-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/nerf-other-mitt.jpg"
+        },
+        {
+          "name": "paint splatter",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/paint_splatter-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/paint_splatter-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/paint_splatter-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/paint_splatter-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/paint_splatter-other-mitt.jpg"
+        },
+        {
+          "name": "pride",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pride-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pride-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pride-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pride-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/pride-other-mitt.jpg"
+        },
+        {
+          "name": "psycho rainbow",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/psycho_rainbow-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/psycho_rainbow-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/psycho_rainbow-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/psycho_rainbow-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/psycho_rainbow-other-mitt.jpg"
+        },
+        {
+          "name": "sea swirl",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sea_swirl-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sea_swirl-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sea_swirl-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sea_swirl-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/sea_swirl-other-mitt.jpg"
+        },
+        {
+          "name": "tie dye",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tie_dye-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tie_dye-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tie_dye-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tie_dye-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tie_dye-other-mitt.jpg"
+        },
+        {
+          "name": "tribal",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tribal-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tribal-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tribal-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tribal-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/tribal-other-mitt.jpg"
+        },
+        {
+          "name": "vision",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/vision-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/vision-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/vision-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/vision-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/vision-other-mitt.jpg"
+        },
+        {
+          "name": "wookie",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/wookie-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/wookie-cat-mitt.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/wookie-dog-mitt.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/wookie-human-mitt.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/mitt/wookie-other-mitt.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,844 @@
+{
+  "category": [
+    {
+      "name": "Collage",
+      "pallet": [
+        {
+          "name": "face collage",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/face_collage-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/face_collage-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/face_collage-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/face_collage-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/face_collage-other-sock.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Holiday",
+      "pallet": [
+        {
+          "name": "berries",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/berries-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/berries-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/berries-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/berries-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/berries-other-sock.jpg"
+        },
+        {
+          "name": "candy cane stripes",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/candy_cane_stripes-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/candy_cane_stripes-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/candy_cane_stripes-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/candy_cane_stripes-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/candy_cane_stripes-other-sock.jpg"
+        },
+        {
+          "name": "hanukkah mashup",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/hanukkah_mashup-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/hanukkah_mashup-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/hanukkah_mashup-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/hanukkah_mashup-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/hanukkah_mashup-other-sock.jpg"
+        },
+        {
+          "name": "blue snowflake",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue_snowflake-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_snowflake-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_snowflake-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_snowflake-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_snowflake-other-sock.jpg"
+        },
+        {
+          "name": "red snowflake",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red_snowflake-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_snowflake-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_snowflake-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_snowflake-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_snowflake-other-sock.jpg"
+        },
+        {
+          "name": "snowflake knit",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/snowflake_knit-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/snowflake_knit-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/snowflake_knit-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/snowflake_knit-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/snowflake_knit-other-sock.jpg"
+        },
+        {
+          "name": "ugly sweater",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/ugly_sweater-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ugly_sweater-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ugly_sweater-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ugly_sweater-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ugly_sweater-other-sock.jpg"
+        },
+        {
+          "name": "white snowflake",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/white_snowflake-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/white_snowflake-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/white_snowflake-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/white_snowflake-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/white_snowflake-other-sock.jpg"
+        },
+        {
+          "name": "winter wonderland",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/winter_wonderland-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/winter_wonderland-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/winter_wonderland-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/winter_wonderland-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/winter_wonderland-other-sock.jpg"
+        },
+        {
+          "name": "holiday icon",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/holiday_icon-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/holiday_icon-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/holiday_icon-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/holiday_icon-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/holiday_icon-other-sock.jpg"
+        },
+        {
+          "name": "xmas trees",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/xmas_trees-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/xmas_trees-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/xmas_trees-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/xmas_trees-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/xmas_trees-other-sock.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "colors",
+      "pallet": [
+        {
+          "name": "pink",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pink-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink-other-sock.jpg"
+        },
+        {
+          "name": "red",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red-other-sock.jpg"
+        },
+        {
+          "name": "orange",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/orange-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange-other-sock.jpg"
+        },
+        {
+          "name": "yellow",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/yellow-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow-other-sock.jpg"
+        },
+        {
+          "name": "green",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green-other-sock.jpg"
+        },
+        {
+          "name": "turquoise",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/turquoise-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise-other-sock.jpg"
+        },
+        {
+          "name": "blue",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue-other-sock.jpg"
+        },
+        {
+          "name": "purple",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/purple-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple-other-sock.jpg"
+        },
+        {
+          "name": "black",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/black-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black-other-sock.jpg"
+        },
+        {
+          "name": "grey",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grey-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey-other-sock.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dog",
+      "pallet": [
+        {
+          "name": "black dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/black_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black_dog-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black_dog-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black_dog-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black_dog-other-sock.jpg"
+        },
+        {
+          "name": "blue dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_dog-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_dog-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_dog-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_dog-other-sock.jpg"
+        },
+        {
+          "name": "green dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_dog-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_dog-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_dog-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_dog-other-sock.jpg"
+        },
+        {
+          "name": "grey dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grey_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey_dog-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey_dog-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey_dog-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey_dog-other-sock.jpg"
+        },
+        {
+          "name": "orange dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/orange_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange_dog-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange_dog-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange_dog-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange_dog-other-sock.jpg"
+        },
+        {
+          "name": "pink dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pink_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink_dog-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink_dog-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink_dog-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink_dog-other-sock.jpg"
+        },
+        {
+          "name": "purple dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/purple_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple_dog-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple_dog-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple_dog-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple_dog-other-sock.jpg"
+        },
+        {
+          "name": "red dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_dog-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_dog-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_dog-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_dog-other-sock.jpg"
+        },
+        {
+          "name": "turquoise dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/turquoise_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise_dog-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise_dog-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise_dog-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise_dog-other-sock.jpg"
+        },
+        {
+          "name": "yellow dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/yellow_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow_dog-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow_dog-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow_dog-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow_dog-other-sock.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "pallet": [
+        {
+          "name": "black cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/black_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black_cat-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black_cat-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black_cat-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/black_cat-other-sock.jpg"
+        },
+        {
+          "name": "blue cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/blue_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_cat-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_cat-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_cat-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/blue_cat-other-sock.jpg"
+        },
+        {
+          "name": "green cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_cat-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_cat-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_cat-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_cat-other-sock.jpg"
+        },
+        {
+          "name": "grey cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grey_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey_cat-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey_cat-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey_cat-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grey_cat-other-sock.jpg"
+        },
+        {
+          "name": "orange cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/orange_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange_cat-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange_cat-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange_cat-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/orange_cat-other-sock.jpg"
+        },
+        {
+          "name": "pink cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pink_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink_cat-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink_cat-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink_cat-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pink_cat-other-sock.jpg"
+        },
+        {
+          "name": "purple cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/purple_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple_cat-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple_cat-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple_cat-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/purple_cat-other-sock.jpg"
+        },
+        {
+          "name": "red cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/red_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_cat-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_cat-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_cat-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/red_cat-other-sock.jpg"
+        },
+        {
+          "name": "turquoise cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/turquoise_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise_cat-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise_cat-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise_cat-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/turquoise_cat-other-sock.jpg"
+        },
+        {
+          "name": "yellow cat",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/yellow_cat-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow_cat-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow_cat-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow_cat-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/yellow_cat-other-sock.jpg"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "pallet": [
+        {
+          "name": "taco time",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/taco_time-thumbnail.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/taco_time-dog-sock.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/taco_time-cat-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/taco_time-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/taco_time-other-sock.jpg"
+        },
+        {
+          "name": "ramen",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/ramen-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ramen-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ramen-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ramen-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ramen-other-sock.jpg"
+        },
+        {
+          "name": "guacamole",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/guacamole-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/guacamole-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/guacamole-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/guacamole-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/guacamole-other-sock.jpg"
+        },
+        {
+          "name": "cheddar",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cheddar-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheddar-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheddar-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheddar-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheddar-other-sock.jpg"
+        },
+        {
+          "name": "tortilla",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tortilla-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tortilla-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tortilla-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tortilla-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tortilla-other-sock.jpg"
+        },
+        {
+          "name": "peaches",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/peaches-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/peaches-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/peaches-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/peaches-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/peaches-other-sock.jpg"
+        },
+        {
+          "name": "avocado farm",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/avocado_farm-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/avocado_farm-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/avocado_farm-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/avocado_farm-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/avocado_farm-other-sock.jpg"
+        },
+        {
+          "name": "chocolate chip",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/chocolate_chip-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/chocolate_chip-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/chocolate_chip-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/chocolate_chip-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/chocolate_chip-other-sock.jpg"
+        },
+        {
+          "name": "candy v2",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/candy_v2-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/candy_v2-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/candy_v2-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/candy_v2-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/candy_v2-other-sock.jpg"
+        },
+        {
+          "name": "cheese puffs",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cheese_puffs-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheese_puffs-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheese_puffs-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheese_puffs-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheese_puffs-other-sock.jpg"
+        },
+        {
+          "name": "cheeseburger",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cheeseburger-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheeseburger-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheeseburger-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheeseburger-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cheeseburger-other-sock.jpg"
+        },
+        {
+          "name": "cupcakes",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cupcakes-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cupcakes-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cupcakes-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cupcakes-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cupcakes-other-sock.jpg"
+        },
+        {
+          "name": "donuts",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/donuts-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/donuts-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/donuts-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/donuts-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/donuts-other-sock.jpg"
+        },
+        {
+          "name": "fruity feast",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/fruity_feast-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/fruity_feast-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/fruity_feast-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/fruity_feast-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/fruity_feast-other-sock.jpg"
+        },
+        {
+          "name": "hot dog",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/hot_dog-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/hot_dog-cat-sock.jpg?v=1620716084",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/hot_dog-dog-sock.jpg?v=1620716084",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/hot_dog-human-sock.jpg?v=1620716084",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/hot_dog-other-sock.jpg?v=1620716084"
+        },
+        {
+          "name": "ice cream",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/ice_cream-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ice_cream-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ice_cream-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ice_cream-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/ice_cream-other-sock.jpg"
+        },
+        {
+          "name": "lemons",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/lemons-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lemons-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lemons-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lemons-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lemons-other-sock.jpg"
+        },
+        {
+          "name": "mac and cheese",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/mac_and_cheese-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/mac_and_cheese-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/mac_and_cheese-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/mac_and_cheese-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/mac_and_cheese-other-sock.jpg"
+        },
+        {
+          "name": "peppermints",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/peppermints-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/peppermints-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/peppermints-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/peppermints-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/peppermints-other-sock.jpg"
+        },
+        {
+          "name": "pizza",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pizza-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pizza-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pizza-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pizza-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pizza-other-sock.jpg"
+        },
+        {
+          "name": "sprinkles",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sprinkles-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sprinkles-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sprinkles-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sprinkles-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sprinkles-other-sock.jpg"
+        },
+        {
+          "name": "waffles",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/waffles-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/waffles-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/waffles-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/waffles-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/waffles-other-sock.jpg"
+        },
+        {
+          "name": "watermelon",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/watermelon-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/watermelon-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/watermelon-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/watermelon-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/watermelon-other-sock.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "biomes",
+      "pallet": [
+        {
+          "name": "clovers",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/clovers-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/clovers-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/clovers-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/clovers-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/clovers-other-sock.jpg"
+        },
+        {
+          "name": "forest",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/forest-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/forest-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/forest-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/forest-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/forest-other-sock.jpg"
+        },
+        {
+          "name": "grass",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/grass-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grass-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grass-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grass-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/grass-other-sock.jpg"
+        },
+        {
+          "name": "sand",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sand-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sand-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sand-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sand-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sand-other-sock.jpg"
+        },
+        {
+          "name": "sky",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sky-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sky-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sky-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sky-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sky-other-sock.jpg"
+        },
+        {
+          "name": "snow",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/snow-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/snow-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/snow-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/snow-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/snow-other-sock.jpg"
+        },
+        {
+          "name": "tropical",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tropical-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tropical-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tropical-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tropical-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tropical-other-sock.jpg"
+        },
+        {
+          "name": "water",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/water-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/water-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/water-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/water-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/water-other-sock.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "galaxy",
+      "pallet": [
+        {
+          "name": "cosmos galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cosmos_galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cosmos_galaxy-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cosmos_galaxy-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cosmos_galaxy-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cosmos_galaxy-other-sock.jpg"
+        },
+        {
+          "name": "galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/galaxy-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/galaxy-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/galaxy-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/galaxy-other-sock.jpg"
+        },
+        {
+          "name": "milky way galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/milky_way_galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/milky_way_galaxy-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/milky_way_galaxy-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/milky_way_galaxy-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/milky_way_galaxy-other-sock.jpg"
+        },
+        {
+          "name": "thunder galaxy",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/thunder_galaxy-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/thunder_galaxy-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/thunder_galaxy-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/thunder_galaxy-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/thunder_galaxy-other-sock.jpg"
+        }
+      ]
+    },
+    {
+      "name": "patterns",
+      "pallet": [
+        {
+          "name": "daises",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/daises-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/daises-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/daises-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/daises-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/daises-other-sock.jpg"
+        },
+        {
+          "name": "green hibiscus",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/green_hibiscus-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_hibiscus-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_hibiscus-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_hibiscus-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/green_hibiscus-other-sock.jpg"
+        },
+        {
+          "name": "taxi",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/taxi-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/taxi-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/taxi-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/taxi-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/taxi-other-sock.jpg"
+        },
+        {
+          "name": "bursting hearts",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/bursting_hearts-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/bursting_hearts-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/bursting_hearts-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/bursting_hearts-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/bursting_hearts-other-sock.jpg"
+        },
+        {
+          "name": "breast cancer argyle",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/breast_cancer_argyle-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/breast_cancer_argyle-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/breast_cancer_argyle-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/breast_cancer_argyle-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/breast_cancer_argyle-other-sock.jpg"
+        },
+        {
+          "name": "camo",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/camo-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/camo-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/camo-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/camo-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/camo-other-sock.jpg"
+        },
+        {
+          "name": "cash",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cash-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cash-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cash-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cash-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cash-other-sock.jpg"
+        },
+        {
+          "name": "cross",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/cross-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cross-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cross-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cross-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/cross-other-sock.jpg"
+        },
+        {
+          "name": "droids",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/droids-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/droids-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/droids-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/droids-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/droids-other-sock.jpg"
+        },
+        {
+          "name": "gearup",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/gearup-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/gearup-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/gearup-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/gearup-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/gearup-other-sock.jpg"
+        },
+        {
+          "name": "graffiti",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/graffiti-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/graffiti-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/graffiti-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/graffiti-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/graffiti-other-sock.jpg"
+        },
+        {
+          "name": "lava",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/lava-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lava-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lava-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lava-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lava-other-sock.jpg"
+        },
+        {
+          "name": "lightsaber",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/lightsaber-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lightsaber-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lightsaber-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lightsaber-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/lightsaber-other-sock.jpg"
+        },
+        {
+          "name": "nerf",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/nerf-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/nerf-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/nerf-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/nerf-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/nerf-other-sock.jpg"
+        },
+        {
+          "name": "paint splatter",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/paint_splatter-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/paint_splatter-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/paint_splatter-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/paint_splatter-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/paint_splatter-other-sock.jpg"
+        },
+        {
+          "name": "pride",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/pride-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pride-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pride-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pride-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/pride-other-sock.jpg"
+        },
+        {
+          "name": "psycho rainbow",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/psycho_rainbow-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/psycho_rainbow-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/psycho_rainbow-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/psycho_rainbow-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/psycho_rainbow-other-sock.jpg"
+        },
+        {
+          "name": "sea swirl",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/sea_swirl-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sea_swirl-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sea_swirl-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sea_swirl-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/sea_swirl-other-sock.jpg"
+        },
+        {
+          "name": "tie dye",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tie_dye-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tie_dye-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tie_dye-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tie_dye-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tie_dye-other-sock.jpg"
+        },
+        {
+          "name": "tribal",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/tribal-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tribal-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tribal-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tribal-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/tribal-other-sock.jpg"
+        },
+        {
+          "name": "vision",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/vision-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/vision-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/vision-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/vision-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/vision-other-sock.jpg"
+        },
+        {
+          "name": "wookie",
+          "thumbnail": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/thumbnails/wookie-thumbnail.jpg",
+          "cat_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/wookie-cat-sock.jpg",
+          "dog_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/wookie-dog-sock.jpg",
+          "human_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/wookie-human-sock.jpg",
+          "other_image": "https://res.cloudinary.com/hoopswagg/image/upload/paw.com%20images/sock/wookie-other-sock.jpg"
+        }
+      ]
+    }
+  ]
+}
