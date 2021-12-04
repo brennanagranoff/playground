@@ -1,0 +1,2 @@
+run both sql and save over json
+then run node
